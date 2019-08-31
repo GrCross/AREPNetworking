@@ -31,15 +31,16 @@ En este laboratorio encontrara los siguientes programas:
 6) cliente y Servidor de datagramas el cual retorna la hora cada 5 segundos 
 
  
+## Prerequisitos 
  
- 
+Para poder instalar el laboratorio es necesario tener los siguientes proframas instalados:
+
+* Maven
+* git
+
+
 
 ## Instalacion 
-
- 
- 
-
-Para poder instalar el laboratorio es necesario primeramente tener Maven instalado en la maquina en la cual correrá; el siguiente link es un manual para instalar Maven y git instalado: 
 
  
  
@@ -174,6 +175,19 @@ Este ejercicio es un servidor el cual responderá a todos los archivos que se le
 
 Servidor y cliente de datagramas, El servidor retornará su hora cada 5 segundos, mientras que el cliente escucha, aun si el servidor se apaga, el cliente seguirá escuchando. 
 
+ 
+ ## Build
+ * [Maven](https://maven.apache.org/) - Manejador de dependencias
+ 
+ 
+ ## Autor
+ * **Daniel Alberto Rosales Castro** Trabajo inicial
+ 
+ ## Licencia
+ 
+ El laboratorio esta bajo la licencia de la MIT -ver [LICENSE.md](LICENSE.md) para mas detalles
+ 
+ 
  
  
 
